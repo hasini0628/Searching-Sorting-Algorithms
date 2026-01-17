@@ -9,3 +9,5 @@ n = int(input("Enter number of elements: "))
 arr = []
 print("Enter elements:")
 for i in range(n):
+    arr.append(int(input()))
+print("Sorted array:", quick_sort(arr))
