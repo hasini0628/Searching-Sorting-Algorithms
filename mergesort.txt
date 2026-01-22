@@ -10,3 +10,7 @@ def merge_sort(arr):
             if L[i] < R[j]:
                 arr[k] = L[i]
                 i += 1
+            else:
+                arr[k] = R[j]
+                j += 1
+            k += 1
