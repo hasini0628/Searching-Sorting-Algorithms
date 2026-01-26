@@ -23,3 +23,5 @@ def merge_sort(arr):
             j += 1
             k += 1
     return arr
+arr = list(map(int, input().split()))
+print(merge_sort(arr))
