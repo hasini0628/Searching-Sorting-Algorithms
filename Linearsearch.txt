@@ -6,3 +6,7 @@ def linear_search(arr, key):
 arr = list(map(int, input().split()))
 key = int(input("Enter element to search: "))
 result = linear_search(arr, key)
+if result != -1:
+    print("Element found at index", result)
+else:
+    print("Element not found")
