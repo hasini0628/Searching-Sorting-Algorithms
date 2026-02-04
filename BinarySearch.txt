@@ -9,3 +9,4 @@ def binary_search(arr, key):
         else:
             high = mid - 1
     return -1
+arr = sorted(list(map(int, input().split())))
