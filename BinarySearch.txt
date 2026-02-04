@@ -10,3 +10,5 @@ def binary_search(arr, key):
             high = mid - 1
     return -1
 arr = sorted(list(map(int, input().split())))
+key = int(input("Enter element to search: "))
+result = binary_search(arr, key)
