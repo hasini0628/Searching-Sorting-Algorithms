@@ -5,3 +5,6 @@ Overview
 
 Searching and Sorting are core concepts in computer science that play a crucial role in efficient data processing.  
 This repository demonstrates commonly used algorithms with clear logic and beginner-friendly implementations.
+The project is suitable for:
+- Undergraduate students  
+- Beginners in DSA 
