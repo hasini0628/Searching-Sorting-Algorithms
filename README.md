@@ -8,3 +8,5 @@ This repository demonstrates commonly used algorithms with clear logic and begin
 The project is suitable for:
 - Undergraduate students  
 - Beginners in DSA 
+- Exam preparation  
+- Coding interview fundamentals  
