@@ -14,3 +14,5 @@ The project is suitable for:
 Sorting Algorithms
 - Bubble Sort – Simple comparison-based sorting algorithm  
 - Selection Sort – Selects the minimum element iteratively  
+- Insertion Sort – Builds the sorted array one element at a time  
+- Merge Sort – Divide-and-conquer based efficient sorting algorithm  
