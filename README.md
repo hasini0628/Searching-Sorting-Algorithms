@@ -16,3 +16,4 @@ Sorting Algorithms
 - Selection Sort – Selects the minimum element iteratively  
 - Insertion Sort – Builds the sorted array one element at a time  
 - Merge Sort – Divide-and-conquer based efficient sorting algorithm  
+- Quick Sort – Fast recursive sorting technique  
