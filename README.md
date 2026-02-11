@@ -10,3 +10,7 @@ The project is suitable for:
 - Beginners in DSA 
 - Exam preparation  
 - Coding interview fundamentals  
+
+Sorting Algorithms
+- Bubble Sort – Simple comparison-based sorting algorithm  
+- Selection Sort – Selects the minimum element iteratively  
