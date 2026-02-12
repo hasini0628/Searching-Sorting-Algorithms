@@ -17,3 +17,7 @@ Sorting Algorithms
 - Insertion Sort – Builds the sorted array one element at a time  
 - Merge Sort – Divide-and-conquer based efficient sorting algorithm  
 - Quick Sort – Fast recursive sorting technique  
+
+Searching Algorithms
+- Linear Search – Sequential search through elements  
+- Binary Search – Efficient search on sorted data  
