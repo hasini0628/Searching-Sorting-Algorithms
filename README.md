@@ -21,3 +21,9 @@ Sorting Algorithms
 Searching Algorithms
 - Linear Search – Sequential search through elements  
 - Binary Search – Efficient search on sorted data  
+
+Technologies Used:
+
+Python 3
+Basic Python Functions
+Conditional Statements
