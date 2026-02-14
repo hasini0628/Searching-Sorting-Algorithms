@@ -27,3 +27,5 @@ Technologies Used:
 Python 3
 Basic Python Functions
 Conditional Statements
+Conditional Statements
+Loops
