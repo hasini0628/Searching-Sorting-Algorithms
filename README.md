@@ -29,3 +29,5 @@ Basic Python Functions
 Conditional Statements
 Conditional Statements
 Loops
+Recursion
+Command-Line Execution
