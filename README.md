@@ -31,3 +31,7 @@ Conditional Statements
 Loops
 Recursion
 Command-Line Execution
+
+General Features:
+Simple and beginner-friendly Python programs
+Clear console output
