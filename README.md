@@ -35,3 +35,5 @@ Command-Line Execution
 General Features:
 Simple and beginner-friendly Python programs
 Clear console output
+Easy to execute and modify
+Useful for exam preparation and interview practice
