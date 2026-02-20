@@ -39,3 +39,5 @@ Easy to execute and modify
 Useful for exam preparation and interview practice
 
 How to Run the Project:
+Download or clone the repository
+Make sure Python 3 is installed on your system
