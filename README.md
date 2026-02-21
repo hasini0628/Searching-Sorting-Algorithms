@@ -43,3 +43,5 @@ Download or clone the repository
 Make sure Python 3 is installed on your system
 Open the project folder in terminal or command prompt
 Run any algorithm file using:
+python filename.py
+View the output in the console
