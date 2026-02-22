@@ -45,3 +45,7 @@ Open the project folder in terminal or command prompt
 Run any algorithm file using:
 python filename.py
 View the output in the console
+
+Learning Outcomes:
+Understand algorithm logic and flow
+Analyze time complexity
