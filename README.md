@@ -49,3 +49,5 @@ View the output in the console
 Learning Outcomes:
 Understand algorithm logic and flow
 Analyze time complexity
+Improve problem-solving skills
+Strengthen Python fundamentals
